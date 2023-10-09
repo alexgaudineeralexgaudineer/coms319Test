@@ -26,5 +26,19 @@
     "image": "./images/student-accessibility-services.jpeg",
     "description": "Student Accessibility Services provides free services to currently enrolled students at Iowa State University. We provide services for students with disabilities including accommodations, advocacy, and much more.",
     "url": "https://www.sas.dso.iastate.edu/"
+  },
+  {
+    "id": "5",
+    "name": "Military Affiliated Student Services",
+    "image": "./images/military-affiliated-student-services.jpeg",
+    "description": "The Military-Affiliated Student Center provides academic support, transition assistance, and advocacy for students who are Active-Duty Service Members, Veterans, ROTC cadets, Reservists, National Guard, and their Families.",
+    "url": "https://masc.dso.iastate.edu/"
+  },
+  {
+    "id": "6",
+    "name": "Multicultural Student Affairs",
+    "image": "./images/multicultural-student-affairs.jpg",
+    "description": "The Office of Multicultural Student Affairs (MSA) supports and empowers Iowa State University's multicultural students, and advocates for their holistic development across the University. We offer opportunities for all Iowa State University's students to connect culturally and socially, to find every opportunity to excel academically, and to find community in fun and relaxing spaces.",
+    "url": "https://multicultural.dso.iastate.edu/"
   }
 ]
