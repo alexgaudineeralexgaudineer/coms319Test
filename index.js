@@ -6,6 +6,11 @@ const currentPath = window.location.pathname
   .replace("index", "")
   .trim();
 
+if (currentPath === "COMS319-Midterm") {
+  window.location.href = "./index.html";
+  return;
+}
+
 (async () => {
   const dataRequest = await fetch("./data.json");
   const data = await dataRequest.json();
