@@ -8,7 +8,6 @@ const currentPath = window.location.pathname
 
 if (currentPath === "COMS319-Midterm") {
   window.location.href = "./index.html";
-  return;
 }
 
 (async () => {
