@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "name": "Student Legal Services",
+    "image": "/images/student-legal-services.webp",
+    "description": "Student Legal Services provides free legal advice and representation to currently enrolled students at Iowa State University. We provide advice regarding criminal law, employment issues, civil rights and discrimination, immigration, and much more.",
+    "url": "https://www.studentlegal.dso.iastate.edu/"
+  },
+  {
+    "id": "2",
+    "name": "Financial Counseling Clinic",
+    "image": "/images/financial-counseling-clinic.webp",
+    "description": "The Financial Counseling Clinic provides free financial counseling to currently enrolled students at Iowa State University. We provide advice regarding budgeting, credit, spending, debt, student loans, and much more.",
+    "url": "https://hdfs.hs.iastate.edu/current-students/academics/financial-counseling-clinic/"
+  },
+  {
+    "id": "3",
+    "name": "Student Counseling Services",
+    "image": "/images/student-counseling-services.jpeg",
+    "description": "Student Counseling Services provides free counseling to currently enrolled students at Iowa State University. We provide counseling for a variety of issues including anxiety, depression, stress, relationship issues, and much more.",
+    "url": "https://counseling.iastate.edu/"
+  },
+  {
+    "id": "4",
+    "name": "Student Accessibility Services",
+    "image": "/images/student-counseling-services.jpeg",
+    "description": "Student Accessibility Services provides free services to currently enrolled students at Iowa State University. We provide services for students with disabilities including accommodations, advocacy, and much more.",
+    "url": "https://www.sas.dso.iastate.edu/"
+  }
+]
