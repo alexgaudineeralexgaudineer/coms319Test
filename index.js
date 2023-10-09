@@ -7,7 +7,7 @@ const currentPath = window.location.pathname
   .trim();
 
 (async () => {
-  const dataRequest = await fetch("/data.json");
+  const dataRequest = await fetch("./data.json");
   const data = await dataRequest.json();
 
   if (currentPath === "") {

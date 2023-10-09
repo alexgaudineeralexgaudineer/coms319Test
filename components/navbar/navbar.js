@@ -1,5 +1,5 @@
 (async () => {
-  const componentRequest = await fetch("/components/navbar/navbar.html");
+  const componentRequest = await fetch("./components/navbar/navbar.html");
   const component = await componentRequest.text();
   const body = document.getElementsByTagName("body");
 
